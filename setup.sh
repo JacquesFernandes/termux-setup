@@ -13,6 +13,5 @@ echo "";
 apt install -y man;
 apt install -y curl;
 apt install -y nano;
-apt install -y git;
 apt install -y openssh;
 apt install -y coreutils;
